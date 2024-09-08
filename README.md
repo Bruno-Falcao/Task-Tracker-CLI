@@ -23,4 +23,4 @@ go run . list in-progress
 go run . list todo
 ```
 
-https://github.com/Bruno-Falcao/Task-Tracker-CLI/tree/master
+https://roadmap.sh/projects/task-tracker
