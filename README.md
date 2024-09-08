@@ -1,4 +1,12 @@
-## Requisites to run this project
+## What this project is capable of:
+* Create a new task
+* Update tasks
+* Delete tasks
+* Change tasks status
+* list all tasks
+* list tasks by status
+
+## Requisites to run the project
  * Go SDK;
 
 ## Commands to run this project:
@@ -15,3 +23,4 @@ go run . list in-progress
 go run . list todo
 ```
 
+https://github.com/Bruno-Falcao/Task-Tracker-CLI/tree/master
