@@ -12,7 +12,7 @@ https://roadmap.sh/projects/task-tracker
  * Go SDK;
 
 ## Commands to run this project:
-```
+`
 go run . add "your description to the task" 
 go run . update integerID "your new description to the specified task"
 go run . delete integerID
@@ -23,4 +23,4 @@ go run . list
 go run . list done
 go run . list in-progress
 go run . list todo
-```
+`
